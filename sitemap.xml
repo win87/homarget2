@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.homestayguest.com/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/index.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/faq.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/contact.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/forget-password.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/terms-of-conditions.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/privacy-policy.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/host-how-it-works.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/guest-how-it-works.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/host-search-result.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/guest-search-result.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/my-account.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/host-search-result.php?page=2&amp;keywords=&amp;order=</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/host-search-result.php?page=3&amp;keywords=&amp;order=</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/guest-search-result.php?page=2&amp;keywords=&amp;order=</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/host-search-result.php?page=1&amp;keywords=&amp;order=</loc>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/list-request.php</loc>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/review-request.php</loc>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://www.homestayguest.com/verification-email-sent.php?email=</loc>
+  <priority>0.33</priority>
+</url>
+</urlset>
